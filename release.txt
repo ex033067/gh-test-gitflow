@@ -1,3 +1,6 @@
+Release 04:
+- new car: Opel
+
 Release 03:
 - food pizza and salad
 
